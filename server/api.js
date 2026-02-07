@@ -59,4 +59,4 @@ const api = {
   async editTodo(id, text) {
     return this.updateTodo(id, { text });
   },
-};
+}
